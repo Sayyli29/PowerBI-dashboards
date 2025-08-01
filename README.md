@@ -28,6 +28,8 @@ The primary goal of this dashboard is to enable hotel managers and analysts to e
 
 - `hotel_booking_dashboard.pbix` – Power BI file containing the dashboard
 
+![Dashboard Screenshot](./hotel_booking_preview.png)
+
 ## How to Use
 
 1. Download the `.pbix` file from the repository
